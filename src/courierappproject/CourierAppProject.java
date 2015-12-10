@@ -15,7 +15,7 @@ public class CourierAppProject {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.print("Git");
+        System.out.print("G12xu");
     }
     
 }
